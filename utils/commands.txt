@@ -1,0 +1,13 @@
+from Terminal:
+curl -X POST http://127.0.0.1:5000/receive_file     -H "Content-Type: application/json"     -d '{"ContentDocumentId": "069S8000004CgIvIAK"}'
+
+test UAT Envirement:
+
+# Test environment variables UAT
+SALESFORCE_USERNAME=zh.abdyrakmanov-4pps@force.com.uat
+SALESFORCE_PASSWORD=Samexpress0000!!
+SALESFORCE_TOKEN=JkddFepoEyGFwEY27BcVyQ6h
+SALESFORCE_DOMAIN=test
+
+# Environment selection
+ENVIRONMENT=test  # Установи prod для продакшена

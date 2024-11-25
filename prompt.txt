@@ -1,0 +1,36 @@
+{
+            "loadNumber": "",
+            "referenceId": "",
+            "orderId": "",
+            "carrier": "",
+            "stops": [
+                {
+                    "stopType": "Pickup",
+                    "stop": 1,
+                    "startDate": "",
+                    "endDate": "",
+                    "notes": "",
+                    "street": "",
+                    "city": "",
+                    "state": "",
+                    "zipCode": "",
+                    "country": "US"
+                },
+                {
+                    "stopType": "Delivery",
+                    "stop": 2,
+                    "startDate": "",
+                    "endDate": "",
+                    "notes": "",
+                    "street": "",
+                    "city": "",
+                    "state": "",
+                    "zipCode": "",
+                    "country": "US"
+                }
+            ],
+            "terms": 28,
+            "rateConfirmation": true,
+            "linehaulRateAmount": 0,
+            "proofOfDelivery": true
+        }

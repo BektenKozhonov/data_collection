@@ -1,0 +1,10 @@
+Flask
+firebase-functions
+requests
+python-dotenv
+simple-salesforce
+openpyxl
+pandas
+python-docx
+salesforce-bulk
+gdown
