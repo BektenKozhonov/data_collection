@@ -1,7 +1,7 @@
-/temp/
 .env
 .venv
 /set/
+/temp/
 /utils/__pycache__
 
 
